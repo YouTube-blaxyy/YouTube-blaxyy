@@ -14,6 +14,9 @@ For the Future i want to focus on my two Main Projects called:
 **?? Where to Contact**
 - You can Contact me basically better on Discord. My user is: blaxyy
 
+**Some stats**
+
+https://wakatime.com/badge/user/d815ffef-9505-4a89-a0bc-1d832497568c/project/f2837694-b1be-494c-8482-7cd359159057.svg
 
 Be sure to Check out also my friends:
 @Frozn-Dev
