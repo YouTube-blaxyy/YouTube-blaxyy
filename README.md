@@ -1,9 +1,9 @@
 Hi i'm Blaxyy,
-I'm a Developer who is currently learning and working with JavaScript.
+I'm a developer who is currently learning and working with JavaScript.
 My languages which i can speak fluently are German/English/Russian.
 
 **? What are my plans in the future and for now**
-- Im currently trying to learn different coding languages like Java/JavaScript, Python, node.js and im currently working on behind the scenes projects. For example i code discord bots.
+- Im currently trying to learn different coding languages like Java/JavaScript, Python, node.js, C++, C and im currently working on behind the scenes projects. For example i code discord bots.
 
 For the future i want to focus on my two main projects called: 
 - Blax
